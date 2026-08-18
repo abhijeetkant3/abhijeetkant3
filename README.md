@@ -2,7 +2,7 @@
 🚀 Frontend Developer specializing in React.js, Next.js and modern web technologies<br>🌱 Currently exploring Three.js and Generative AI technologies<br>👯 Looking to collaborate on React/Next.js projects and cloud-based solutions<br>💬 Ask me about React, Next.js, Node.js, JavaScript, and full-stack development<br>⚡ Fun fact: I love optimizing performance - achieved 40% faster load times in recent projects!<br>📫 Reach me: abhijeetkant25@gmail.com
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### Frontend:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
